@@ -1,10 +1,10 @@
 {
-  "name": "CPE67146",
-  "short_name": "CPE67146",
-  "description": "ระบบจัดการข้อมูลทำเนียบคณะกรรมการและแผนกิจกรรมประจำปี CPE 2026",
+  "name": "COM-CHECK",
+  "short_name": "COM-CHECK",
+  "description": "ระบบจัดการตรวจเช็คและจัดเก็บเก็บเงินห้อง",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#1e293b",
+  "background_color": "#7B61FF",
   "theme_color": "#0ea5e9",
   "orientation": "portrait-primary",
   "icons": [
