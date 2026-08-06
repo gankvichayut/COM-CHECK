@@ -1,0 +1,22 @@
+{
+  "name": "CPE67146",
+  "short_name": "CPE67146",
+  "description": "ระบบจัดการข้อมูลทำเนียบคณะกรรมการและแผนกิจกรรมประจำปี CPE 2026",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
