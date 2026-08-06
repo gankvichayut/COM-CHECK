@@ -1,11 +1,11 @@
 {
   "name": "COM-CHECK",
   "short_name": "COM-CHECK",
-  "description": "ระบบจัดการตรวจเช็คและจัดเก็บเก็บเงินห้อง",
+  "description": "ระบบจัดการตรวจเช็คและจัดเก็บเงินห้อง",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#7B61FF",
-  "theme_color": "#0ea5e9",
+  "background_color": "#F3F0FF",
+  "theme_color": "#7B61FF",
   "orientation": "portrait-primary",
   "icons": [
     {
